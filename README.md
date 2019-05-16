@@ -1,0 +1,2 @@
+# trongtin
+App truyen
